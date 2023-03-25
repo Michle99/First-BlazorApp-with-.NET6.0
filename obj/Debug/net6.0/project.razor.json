@@ -146,43 +146,6 @@
         }
       },
       {
-        "HashCode": 166799745,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.PizzaBrowser",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PizzaBrowser"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.PizzaBrowser",
-          "Common.TypeNamespace": "BlazorApp.Pages",
-          "Common.TypeNameIdentifier": "PizzaBrowser"
-        }
-      },
-      {
-        "HashCode": -1396132584,
-        "Kind": "Components.Component",
-        "Name": "BlazorApp.Pages.PizzaBrowser",
-        "AssemblyName": "BlazorApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorApp.Pages.PizzaBrowser"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorApp.Pages.PizzaBrowser",
-          "Common.TypeNamespace": "BlazorApp.Pages",
-          "Common.TypeNameIdentifier": "PizzaBrowser",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1178642475,
         "Kind": "Components.Component",
         "Name": "BlazorApp.Pages.Index",
@@ -18827,11 +18790,6 @@
     {
       "FilePath": "c:\\Users\\sammi\\Downloads\\BlazorApp\\App.razor",
       "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\sammi\\Downloads\\BlazorApp\\Pages\\PizzaBrowser.razor",
-      "TargetPath": "Pages\\PizzaBrowser.razor",
       "FileKind": "component"
     },
     {
